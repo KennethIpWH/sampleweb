@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "key": "First",
-      "value": 100
-    },{
-      "key": "Second",
-      "value": false
-    },{
-      "key": "Last",
-      "value": "Mixed"
-    }
-  ],
-  "obj": {
-    "number": 1.2345e-6,
-    "enabled": true
-  },
-  "message": "Strings have to be in double-quotes."
+  "movies": [
+    { "title": "Star Wars", "releaseYear": "1977"},
+    { "title": "Back to the Future", "releaseYear": "1985"},
+    { "title": "The Matrix", "releaseYear": "1999"},
+    { "title": "Inception", "releaseYear": "2010"},
+    { "title": "Interstellar", "releaseYear": "2014"}
+  ]
 }
